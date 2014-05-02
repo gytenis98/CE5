@@ -15,4 +15,4 @@ CE5
 #####sw $S2, 0X54($0)     --->0XAC120054
 
 
-![alt tag](https://github.com/gytenis98/CE5/blob/master/Capture1.JPG)
+![alt tag](https://raw.githubusercontent.com/gytenis98/CE5/master/Capture1.JPG)
