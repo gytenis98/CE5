@@ -13,3 +13,6 @@ CE5
 #####addi $S1,$0,-37      --->0X2011FFDB
 #####add $S2,$S1, $S0     --->0X02119020
 #####sw $S2, 0X54($0)     --->0XAC120054
+
+
+![alt tag](https://github.com/gytenis98/CE5/blob/master/Capture.JPG)
