@@ -95,12 +95,12 @@ BEGIN
  
 
    -- Stimulus process
-  --- stim_proc: process
-  --- begin		
+  stim_proc: process
+  begin		
       -- hold reset state for 100 ns.
-   ---   wait for 100 ns;	
+  wait for 100 ns;	
 
----wait for clk_period*10;
+wait for clk_period*10;
 ---
    --   -- insert stimulus here 
 		
@@ -114,7 +114,8 @@ BEGIN
 				wait for clk_period;
 				instr <= x"AC120054";
 				wait for clk_period;
-				instr <= x"00000000";
+				instr <= x"36538000";
+				wait for clk_period;
 
       wait;
    end process;
