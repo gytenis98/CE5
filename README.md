@@ -15,7 +15,7 @@ CE5
 #####sw $S2, 0X54($0)     --->0XAC120054
 
 
-![alt tag](https://raw.githubusercontent.com/gytenis98/CE5/master/Capture1.JPG)
+![alt tag](https://raw.githubusercontent.com/gytenis98/CE5/master/Capture2.JPG)
 
 
 I think it works because it does what is suppost to do. 44 is stored in S0, the value -37 stored in S1 and sum of these values in S2. 
