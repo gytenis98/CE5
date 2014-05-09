@@ -104,8 +104,8 @@ wait for clk_period*10;
 ---
    --   -- insert stimulus here 
 		
-		stim_proc: process
-			begin
+---stim_proc: process
+			---begin
 				instr <= x"2010002C";
 				wait for clk_period;
 				instr <= x"2011FFDB";
